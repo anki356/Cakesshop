@@ -1,0 +1,51 @@
+fa fa-th-large{
+    padding:35px;
+}
+a{
+    text-decoration:none;padding:20px ;border-radius:2rem;border:solid 2px pink;font-size:20px;height:auto;
+}
+fa fa-bell{
+    padding:35px
+}
+
+sidepanel{
+position:fixed;
+right:0px;
+padding-right:100px;
+padding-top:75px;
+}
+
+fa fa-search{
+color:black;
+}
+ 
+
+
+
+search-box{
+left:250px;
+top:45px;
+position:fixed;
+display:flex;
+justify-content:left;
+align-items:left;
+}
+
+search-text{
+width:10rem;
+border-radius:5px;
+position:fixed;
+border:solid 2px pink;
+
+}
+searchbutton{
+width:2rem;
+height:2rem;
+position:absolute;
+color:black;
+display:grid;
+}
+
+a{
+text-decoration:none;
+}
